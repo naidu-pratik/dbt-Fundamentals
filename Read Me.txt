@@ -1,0 +1,2 @@
+This is sample project created for learning and practising DBT Fundamentals
+===========================================================================
